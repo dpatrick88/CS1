@@ -19,4 +19,5 @@ int main(){
     cout << x*newNum;
     cout << "products of all is: \n";
     cout << x*newNum*testNum;
+    
 }
